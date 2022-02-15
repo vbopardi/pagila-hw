@@ -24,7 +24,7 @@ The following picture illustrates the database's structure:
    $ git submodule update
    ```
 
-1. Modify the `README.md` file so that the test case image points to your forked repo.
+1. Modify the `README.md` file so that the test case image points to your forked repo. Make sure to enable github actions!
 1. Solve the each of the problems in the `sql` folder.
     1. The folder contains one file for each problem.
        At the top of each file is a description of what the file is supposed to compute.
